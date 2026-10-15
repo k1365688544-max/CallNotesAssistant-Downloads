@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/USER_GUIDE.md
+!/THIRD_PARTY_NOTICES.md
+!/CHANGELOG.md
+!/licenses/
+/licenses/*
+!/licenses/Apache-2.0.txt
